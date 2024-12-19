@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone who wants me
 - 📫 How to reach me: (09852773610)
 - 😄 Pronouns: Fu-
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ROT13
 
 <!---
 VctorCastellar/VctorCastellar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
