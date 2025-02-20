@@ -1,8 +1,10 @@
+# Profile Info
+
 - 👋 Hi, I’m @VctorCastellar
 - 👀 I’m interested in video games, music, and shitting habits.
 - 🌱 I’ve learned and currently learning C++, java, JavaScript, Visual Basic & Python.
 - 💞️ I’m looking to collaborate on anyone who wants me
-- 📫 How to reach me: (09852773610)
+- 📫 How to reach me: (?)
 - 😄 Pronouns: Fu-
 - ⚡ Fun fact: ROT13
 
